@@ -1,0 +1,92 @@
+<BFTypedBinder binderType="FrontoSaimagod_Adult_F">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <FrontoSaimagod>
+                           <FrontoSaimagod_Adult>
+                              <FrontoSaimagod_Adult_F/>
+                           </FrontoSaimagod_Adult>
+                        </FrontoSaimagod>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\FrontoSaimagod\FrontoSaimagod_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="FrontoSaimagod_Adult_F"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="0"/>
+   </shared>
+<binder>
+<BFNamedBinder binderName="texController" required="1">
+         <instance>
+            <BFAITextureController currState="well" defaultState="well">
+               <attribList>
+                  <health/>
+                  <hygiene/>
+               </attribList>
+               <stateList>
+                  <sickanddirty>
+                     <attribData>
+                        <health minRange="70" maxRange="101"/>
+                        <hygiene minRange="70" maxRange="101"/>
+                     </attribData>
+                     <textureData mergeKey="material">
+                        <mainObj material="FrontoSaimagod_Adult_F" image="entities\units\animals\FrontoSaimagod\FrontoSaimagod_Adult_F.dds"/>
+                     </textureData>
+                  </sickanddirty>
+                  <sick>
+                     <attribData>
+                        <health minRange="70" maxRange="101"/>
+                     </attribData>
+                     <textureData mergeKey="material">
+                        <mainObj material="FrontoSaimagod_Adult_F" image="entities\units\animals\FrontoSaimagod\FrontoSaimagod_Adult_F.dds"/>
+                     </textureData>
+                  </sick>
+                  <dirty>
+                     <attribData>
+                        <hygiene minRange="70" maxRange="101"/>
+                     </attribData>
+                     <textureData mergeKey="material">
+                        <mainObj material="FrontoSaimagod_Adult_F" image="entities\units\animals\FrontoSaimagod\FrontoSaimagod_Adult_F.dds"/>
+                     </textureData>
+                  </dirty>
+                  <well>
+                     <textureData mergeKey="material">
+                        <mainObj material="FrontoSaimagod_Adult_F" image="entities\units\animals\FrontoSaimagod\FrontoSaimagod_Adult_F.dds"/>
+                     </textureData>
+                  </well>
+               </stateList>
+            </BFAITextureController>
+         </instance>
+      </BFNamedBinder>
+<BFNamedBinder binderName="mainObj">
+         <instance>
+            <BFPhysObj>
+               <BFActorComponent actorfile="entities/units/animals/FrontoSaimagod/FrontoSaimagod_Adult_F.bfm" scale=".1" switch="10000 15000 30000 60000" />
+               
+            </BFPhysObj>
+         </instance>
+      </BFNamedBinder>
+	<BFBinder required="1">
+         <instance>
+            <BFAIEntityDataInstance b_Pregnant="false"/>
+         </instance>
+      </BFBinder>
+   </binder>
+</BFTypedBinder>

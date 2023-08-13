@@ -1,0 +1,115 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <FrontoSaimagod>Frontosa</FrontoSaimagod>
+      <FrontoSaimagod_stt>Frontosa</FrontoSaimagod_stt>
+      <FrontoSaimagod_lower>El Fronrosa</FrontoSaimagod_lower>
+      <FrontoSaimagod_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fronrosa</b>
+         </color>
+         <br/>
+         Haga clic y seleccione el Frontosa.
+      </FrontoSaimagod_ltt>
+</entityname>
+<zoopedia_frontosaimagod>
+ <entry>Frontosa</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/FrontoSaimagod/FrontoSaimagod_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Riesgo bajo
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Lago<br/></color>
+     <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Lago Tanganika (Africa)<br/></color> 
+     <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Actinopterygii <i>(Peces)</i><br/>Orden: Perciformes <i>(Percomorpha)</i><br/>Familia: Cichlidae <i>(Pseudocrenilabrinae)</i><br/>Genero: <i>Cyphotilapia</i><br/>Especie: <i>C. Frontosa</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Curiosidades del Frontosa</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es un ciclido que vive por debajo de los 20 metros de profundidad, es decir, es pelagico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Es popular en la acuariofilia.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Necesitas 1/2 estrella para adoptar un Frontosa.
+   </color>
+   <p/>Cyphotilapia frontosa es un pez de la familia Cichlidae nativa del Lago Tanganica en africa Oriental. C. frontosa es endemico del Lago Tanganica y se ha generalizado en todas las areas del lago. A diferencia de muchas especies de ciclidos C. frontosaes pelagico y rara vez las empresas de pescado lo pescan cerca de la costa. La especie se encuentra generalmente en mayor profundidad (30-50 metros de la superficie) que la mayoria de los ciclidos y sube a aguas superficiales en la madrugada para alimentarse.
+   
+   <p/>El Cyphotilapia frontosa puede crecer a un tamaño significativo, incluso con los especimenes en cautividad potencialmente crecientes a 35 cm de longitud. Estos peces pueden vivir mas de 25 años. Es de color blanco o azul con 5 a 7 franjas negras. En la acuariofilia se valora mas el que tenga mas franjas. La especie tambien desarrolla una joroba en la nuca o giba mas pronunciada en ejemplares adultos.
+   
+   <p/>C. frontosa es popular en el acuario y varios morfos de color de origen natural estan con frecuencia disponibles para la venta a los aficionados. Debido a su tamaño C. frontosa necesita un acuario relativamente grande, sin embargo, es tolerante con heterospecificos. La casa de una sola Frontosa necesita al menos un tanque de 29 galones . Sin embargo Frontosa no le gusta estar solo. Un solo Frontosa necesita de una cueva para vivir, lo que garantiza que la Frontosa se sienta segura. Si una cueva no esta presente para satisfacer la necesidad de seguridad, la Frontosa comenzara a atacar a los otros peces en el tanque. Esto es especialmente cierto con los machos. La quimica del agua y la temperatura deberia reflejar las que se encuentran naturalmente en el Lago Tanganica. El PH debe estar entre 7,8 a 9,0 y la temperatura del agua debe estar entre 26 y 27 °C. La adicion de piedras u otros objetos de adorno, tales como tuberias, permite que el pez se pueda ocultar y reducir el estres. C. frontosa es un oportunista de alimentacion en la naturaleza y su dieta debe consistir en la buena calidad en los alimentos preparados, alimentos congelados, como el krill y las lombrices de tierra de vez en cuando.
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de Wikipedia
+  <p/>Imago
+  </cell>
+ </text>
+</zoopedia_frontosaimagod>
+</ZT2Strings>

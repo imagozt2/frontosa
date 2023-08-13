@@ -1,0 +1,115 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <FrontoSaimagod>Frontosa</FrontoSaimagod>
+      <FrontoSaimagod_stt>Frontosa</FrontoSaimagod_stt>
+      <FrontoSaimagod_lower>The Fronrosa</FrontoSaimagod_lower>
+      <FrontoSaimagod_ltt>
+         <color r="255" g="248" b="178">
+            <b>Fronrosa</b>
+         </color>
+         <br/>
+         Click to select Frontosa.
+      </FrontoSaimagod_ltt>
+</entityname>
+<zoopedia_frontosaimagod>
+ <entry>Frontosa</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/FrontoSaimagod/FrontoSaimagod_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/lowrisk.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Status:
+                     <br/>
+                        <color r="255" g="255" b="0">
+                      Low risk
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Lake<br/></color>
+     <img src="ui/icon_biomes/icon_grassland.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Lake Tanganyka (Africa)<br/></color> 
+     <img src="ui/icon_maplocations/Rainforest_Africa.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Actinopterygii <i>(Fish)</i><br/>Order: Perciformes <i>(Percomorpha)</i><br/>Family: Cichlidae <i>(Pseudocrenilabrinae)</i><br/>Gender: <i>Cyphotilapia</i><br/>Species: <i>C. Frontosa</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/grassland_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Favdicts of Frontosa</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Frontosa live 20 m behind the water, it's a pelagic cichlid.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It's popular in the acuariofilia.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Needed 1/2 stars to adopt Frontosa.
+   </color>
+   <p/>Cyphotilapia frontosa is a fish from the cichlid family native to Lake Tanganyika in East Africa. C. frontosa is endemic to Lake Tanganyika and is widespread in the northern half of the lake, whereas the closely related Cyphotilapia gibberosa inhabits the southern half of the lake. Unlike many cichlid species C. frontosa is a pelagic fish and rarely ventures close to the shoreline. The species generally resides at greater depths (30–50 metres sub-surface) than most other cichlids and rises to shallow waters in the early morning to feed on shoaling fish such as Cyprichromis species. C. frontosa can grow to a significant size with even captive specimens potentially growing to 35 cm in length. The fish can live for over 25 years.
+   
+   <p/>C. frontosa has distinct markings with 6-7 black vertical bars adorning a white or blue body and head and trailing fins with a distinct blue hue. The species also develops a nuchal hump that is more pronounced in older specimens. C. frontosa is a sexually monomorphic species, although the hump is occasionally more pronounced in males. As is the case with many of the cichlid species found in Lake Tanganyika, parallel evolution between distinct breeding colonies has resulted in several different colour variants developing.
+   
+   <p/>C. frontosa is popular aquarium fish and several naturally occurring colour morphs are frequently available for sale to hobbyists. Due to its size C. frontosa needs a relatively large aquarium, however, it behaves relatively sedately and is tolerant of both con- and heterospecifics. To house a single frontosa you need at least a 29 gallon tank. However frontosa do not like being alone. A single frontosa needs a cave to live in; this is to ensure the frontosa feels secure. If a cave is not present to satisfy the frontosa's need for security it will begin to attack the other fish in the tank. This is especially true with male frontosa. Female frontosa are more likely to be satisfied with ground territory. They are best kept with other cichlids or semi-aggressive fish. Frontosa are best kept in at least 150 gallon tanks (550 L). A 150 gallon tank can house 6-8 frontosa. Water chemistry and temperature should mirror those found naturally in Lake Tanganyika. The PH should be between 7.8 to 9.0 and the temperature of the water should be between 79-82 F (26-27 C). The addition of rocks, or other ornaments such as pipes, allow the fish to hide and reduce stress. C. frontosa is an opportunistic feeder in the wild and its diet in aquaria should consist of good quality prepared foods, frozen foods like krill and earthworms occasionally. When spooked, frontosa have been known to break thermometers, filters, and even crack tanks. Frontosa do not grow to the size of the tank, they will grow to about 10-14 inches(25–35 cm).
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Content from Wikipedia
+  <p/>Imago
+  </cell>
+ </text>
+</zoopedia_frontosaimagod>
+</ZT2Strings>
